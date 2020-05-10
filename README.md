@@ -1,2 +1,5 @@
 # BioScience-Covid19
-More to come
+
+<p align="center">
+  <img src="/images/corona_blaster.gif">
+</p>
