@@ -18,13 +18,17 @@ A team from the Arizona State University was experimenting with [the satellite t
 
 As a relatively recent breakthrough, last year a team from the University of Nottingham produced an [acoustic laser](https://www.nottingham.ac.uk/news/using-sound-and-light-to-generate-ultra-fast-data-transfer) (they called it “saser”), which may generate sonic waves (phonons) in the THz range, penetrate tissue with a less absorption than a laser, but still without harmful ionisation specific to X-rays. So, it’s quite a promising technology for the medical screening and treatment (and beyond).
 
-Destructible structure of the virus:
-To understand how we may destroy the virus, let’s look now at its nature. Viruses contain their genetic code in DNA or RNA (latter is the case for COVID-19) protected by the protein shell (capsid). Genetic code of the viruses mutates, so the new strain of the virus may cause disease in the body that was resistant or immune to the earlier strain. That’s the reason of why we unfortunately still didn’t eradicate the common flu virus (which is, by the way, of RNA type as well) and thus seasonal vaccine has to be adjusted at least once a year. There are concerns that something similar may happen with the current coronavirus pandemic.
-Details of the COVID-19’s protein structure can be found in the Research Collaboratory for Structural Bioinformatics (RCSB) Protein Data Bank (PDB). For this analysis I’ve looked particularly at 7BZ5 protein, which describes the structure of the virus’ crown-like receptor-binding spikes, giving the virus its specific shape and name – “coronavirus”.
-To visualise it, you need to download PDB file of 7BZ5 from the PDB Web site and open it with PyMol, a Python-based molecular visualisation tool, released as an open source and maintained by Schrödinger.
+## Destructible structure of the virus:
+To understand how we may destroy the virus, let’s look now at [its nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138183/). Viruses contain their genetic code in DNA or RNA (latter is the case for COVID-19) protected by the protein shell (capsid). Genetic code of the viruses mutates, so the new strain of the virus may cause disease in the body that was resistant or immune to the earlier strain. That’s the reason of why we unfortunately still [didn’t eradicate the common flu virus](http://www.euro.who.int/en/health-topics/communicable-diseases/influenza/pandemic-influenza/how-pandemic-influenza-emerges) (which is, by the way, of RNA type as well) and thus seasonal vaccine has to be adjusted at least once a year. There are concerns that something similar may happen with the current coronavirus pandemic.
+
+Details of the COVID-19’s protein structure can be found in the Research Collaboratory for Structural Bioinformatics (RCSB) [Protein Data Bank (PDB)](https://www.rcsb.org/). For this analysis I’ve looked particularly at 7BZ5 protein, which describes the structure of the virus’ crown-like receptor-binding spikes, giving the virus its specific shape and name – “coronavirus”.
+
+To visualise it, you need to download [PDB file of 7BZ5](https://www.rcsb.org/structure/7BZ5) from the PDB Web site and open it with [PyMol](https://pymol.org/2/), a Python-based molecular visualisation tool, released as an open source and maintained by Schrödinger.
+
 Then you can apply relevant filters to study more about the structure of the virus’s spike protein in detail, thanks to the chain data shared by the PDB microbiologists.
  
 Figure 2: 7BZ5 visualisation in PyMol
+
 Identifying virus protein shell’s resonant frequency:
 Next step – is to get closer to identifying resonant frequencies of our target protein structure.
 We can feed the same PDB file of 7BZ5 protein to the chemical shift prediction Web service, built by the scientists of the Ohio State University. Powered by the GPU (graphics processing unit) processors, its backend uses linear and artificial neural network (ANN) algorithms, to predict chemical shift values for the protein structure of interest, separated by the amino acid residues.
