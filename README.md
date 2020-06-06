@@ -5,7 +5,8 @@
 </p>
 
 ## Introduction:
-You’ve probably heard about [the bridge that collapsed back in 1831](http://scihi.org/broughton-suspension-bridge-resonance-disaster/) when an army brigade was marching across it. Or the opera singers (high C of a professional soprano?) shattering wine glasses with the power of their voice. These phenomena have one thing in common – resonant frequency. 
+You’ve probably heard about [the bridge that collapsed back in 1831](http://scihi.org/broughton-suspension-bridge-resonance-disaster/) when an army brigade was marching across it. Or the opera singers (high C of a professional soprano?) shattering wine glasses with the power of their voice. These phenomena have one thing in common – resonant frequency.
+
 Objects in our known world have natural vibration frequencies. By applying external force at the specific frequencies (mechanical, acoustic or electromagnetic) you can amplify the vibration. And with the higher intensify of the force this mechanical resonance may eventually break the object, thanks to some microscopic defects.
 
 ## Known resonant frequencies and the ways to induce them:
