@@ -29,13 +29,17 @@ Then you can apply relevant filters to study more about the structure of the vir
  
 ![7BZ5 visualisation in PyMol](/images/7BZ5_structure.jpg)
 
-Identifying virus protein shell’s resonant frequency:
+## Identifying virus protein shell’s resonant frequency:
 Next step – is to get closer to identifying resonant frequencies of our target protein structure.
-We can feed the same PDB file of 7BZ5 protein to the chemical shift prediction Web service, built by the scientists of the Ohio State University. Powered by the GPU (graphics processing unit) processors, its backend uses linear and artificial neural network (ANN) algorithms, to predict chemical shift values for the protein structure of interest, separated by the amino acid residues.
+
+We can feed the same PDB file of 7BZ5 protein to the [chemical shift prediction Web service](http://spin.ccic.ohio-state.edu/index.php/ppm/document), built by the scientists of the Ohio State University. Powered by the GPU (graphics processing unit) processors, its backend uses linear and artificial neural network (ANN) algorithms, to predict chemical shift values for the protein structure of interest, separated by the amino acid residues.
+
 As shown on the chart below, chemical shift values for the COVID-19’s protein spikes seem to be circa 4ppm (parts per million) for hydrogen, 32 ppm for carbon-beta, 63 ppm for carbon-alpha and 176 ppm for carbon atoms in the protein’s backbone.
  
-Figure 3: Chemical shift predictions for the virus’ spikes
+![Chemical shift predictions for the virus’ spikes](/images/chem_shift.jpg)
+
 Theoretically, using these PPM values (which represent frequency stability) and conducting experiments with the coronavirus samples and adjustable Terahertz generators, it may be possible to identify relevant resonant frequencies and prove if the virus spikes get damaged when the high-intensity energy is applied.
+
 Building handheld THz generators:
 How feasible it’s to build a handheld, low-cost THz generator? Surprisingly, we are probably not that far from its realisation.
 Use of THz generators is of interest in the security space, thanks to its potential to identify weapons and explosives hidden under the person’s clothing. So, there were some funds allocated through the Defence Advanced Research Projects Agency (DARPA) channels to develop new methods of the THz signals generation. And in June 2012 researchers from the Cornell University confirmed that they were able to produce such signals using gallium nitride (GaN) semiconductor chip.
