@@ -40,11 +40,15 @@ As shown on the chart below, chemical shift values for the COVID-19’s protein 
 
 Theoretically, using these PPM values (which represent frequency stability) and conducting experiments with the coronavirus samples and adjustable Terahertz generators, it may be possible to identify relevant resonant frequencies and prove if the virus spikes get damaged when the high-intensity energy is applied.
 
-Building handheld THz generators:
+## Building handheld THz generators:
 How feasible it’s to build a handheld, low-cost THz generator? Surprisingly, we are probably not that far from its realisation.
-Use of THz generators is of interest in the security space, thanks to its potential to identify weapons and explosives hidden under the person’s clothing. So, there were some funds allocated through the Defence Advanced Research Projects Agency (DARPA) channels to develop new methods of the THz signals generation. And in June 2012 researchers from the Cornell University confirmed that they were able to produce such signals using gallium nitride (GaN) semiconductor chip.
-In 2018 members of the Institute of Electrical and Electronics Engineers (IEEE), affiliated with the Massachusetts Institute of Technology (MIT), published results of their research where they were able to generate high-power THz radiation using another semiconductor material, silicon-germanium (SiGe).
-In both cases we are talking about compact chips, which may find their ways to the next generation of smartphones.
+
+Use of THz generators is also of interest in the security space, thanks to its potential to identify weapons and explosives hidden under the person’s clothing. So, there were some funds allocated through the channels like Defence Advanced Research Projects Agency (DARPA) to develop new methods of the THz signals generation. And in June 2012 researchers from the Cornell University confirmed that they were able to [produce high-frequency signals using gallium nitride (GaN)](https://phys.org/news/2012-07-terahertz.html) chip.
+
+In 2018 members of the Institute of Electrical and Electronics Engineers (IEEE), affiliated with the Massachusetts Institute of Technology (MIT), published results of their research where they were able to [generate high-power THz radiation using another semiconductor material, silicon-germanium (SiGe)](https://hangroup.mit.edu/wp-content/uploads/2018/04/2018_JSSC_1THz_Source.pdf).
+
+In both cases we are talking about compact semiconductor chips, which may find their way even into the next generation of smartphones. This may make THz generators available and affordable to anyone in the world.
+
 Use-case scenarios:
 If practically proven and verified, this may dramatically change the course of actions in the fight against coronavirus.
 
