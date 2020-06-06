@@ -27,7 +27,7 @@ To visualise it, you need to download [PDB file of 7BZ5](https://www.rcsb.org/st
 
 Then you can apply relevant filters to study more about the structure of the virus’s spike protein in detail, thanks to the chain data shared by the PDB microbiologists.
  
-Figure 2: 7BZ5 visualisation in PyMol
+![7BZ5 visualisation in PyMol](/images/7BZ5_structure.jpg)
 
 Identifying virus protein shell’s resonant frequency:
 Next step – is to get closer to identifying resonant frequencies of our target protein structure.
