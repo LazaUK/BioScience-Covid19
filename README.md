@@ -56,7 +56,7 @@ If practically proven and verified, this may dramatically change the course of a
 -	**Disinfection**. From the personal protective equipment (PPE) to the cleaning of offices and public transport. Depending on the size of THz generator, it may be a cabinet where you put fabric for the anti-virus disinfection (so, that PPE can be re-used again) or a portable device that can be carried around to clean the target areas, e.g. your seat on the bus or the airplane;
 -	**Lung treatment**: Chest-level machine which may be used to destroy virus colonies attached to the lung receptors;
 -	**Blood treatment**: Kidney is another organ which may malfunction in the bodies of COVID-19 patients. Hospitals use special machines then to clean the blood (dialysis). Resonant frequency generator attached to such machine may be used to purify the blood additionally;
--	Anything else, which may help us to get back to the “normal ”life we had before this pandemic?
+-	Anything else, which may help us to get back to the “normal ”life we all had before this pandemic?
 
 Can this be practically realised by any company or consortium, who have access to the relevant engineering, scientific and medical expertise. I hope so!
 
