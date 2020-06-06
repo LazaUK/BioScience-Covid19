@@ -47,7 +47,7 @@ Use of THz generators is also of interest in the security space, thanks to its p
 
 In 2018 members of the Institute of Electrical and Electronics Engineers (IEEE), affiliated with the Massachusetts Institute of Technology (MIT), published results of their research where they were able to [generate high-power THz radiation using another semiconductor material, silicon-germanium (SiGe)](https://hangroup.mit.edu/wp-content/uploads/2018/04/2018_JSSC_1THz_Source.pdf).
 
-In both cases we are talking about compact semiconductor chips, which may find their way even into the next generation of smartphones. This may make THz generators available and affordable to anyone in the world.
+In both cases we are talking about compact semiconductor chips, which may find their way even into the next generation of smartphones. This can make THz generators available and affordable to anyone in the world.
 
 Use-case scenarios:
 If practically proven and verified, this may dramatically change the course of actions in the fight against coronavirus.
